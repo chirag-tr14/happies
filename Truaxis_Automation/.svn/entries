@@ -1,0 +1,79 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-12-20T11:59:46.001913Z
+49573
+Chandana Pedamalli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+.classpath
+file
+
+
+
+
+2013-12-23T00:12:08.000000Z
+3cdfc3499e9a7e98bf71ce4a7786fe49
+2013-12-02T05:07:37.120535Z
+49112
+Mohammed Kareem
+
+.project
+file
+
+
+
+
+2013-12-23T00:12:08.000000Z
+2e68326750b2e828d203a4dfdd2cb41e
+2013-12-02T05:07:37.120535Z
+49112
+Mohammed Kareem
+
+.settings
+dir
+
+bin
+dir
+
+pom.xml
+file
+
+
+
+
+2013-12-23T00:12:16.000000Z
+8e2dc5c4e0fe6f1adc9c173ca686cfeb
+2013-12-05T05:41:48.871875Z
+49242
+Chandana Pedamalli
+
+src
+dir
+
+target
+dir
+
+test-output
+dir
+

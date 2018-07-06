@@ -1,0 +1,64 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation/src/test/resources
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-12-20T06:04:15.423276Z
+49562
+Chandana Pedamalli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+locators.properties
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+ccd770c9879d13bddbcc8d69b532eaef
+2013-12-20T06:00:35.956435Z
+49561
+Chandana Pedamalli
+
+testdata.properties
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+383a80fd7872e9d24b30a13053a8976c
+2013-12-20T06:04:15.423276Z
+49562
+Chandana Pedamalli
+
+testng.xml
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+b728015e0ec7586f271aa9e671a83eae
+2013-12-10T08:58:05.743321Z
+49399
+Chandana Pedamalli
+

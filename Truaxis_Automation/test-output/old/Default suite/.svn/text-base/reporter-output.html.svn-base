@@ -1,0 +1,19 @@
+<h2>Reporter output</h2><table><tr><td><br>Browser launched successfully</td></tr>
+<tr><td><br>Opened URL : https://mdreporting.qa.truaxis.mastercard.com/login.htm</td></tr>
+<tr><td><br>Login username text  is present</td></tr>
+<tr><td><br>Entered value q2@bs.com</td></tr>
+<tr><td><br>Login password text  is present</td></tr>
+<tr><td><br>Entered value admin</td></tr>
+<tr><td><br>Login login btn  is present</td></tr>
+<tr><td><br>Clicked on LOG IN TO THE DASHBOARD</td></tr>
+<tr><td><br>EmailStatementCredit menulink  is present</td></tr>
+<tr><td><br>Clicked on Email Statement Credit</td></tr>
+<tr><td><br> clicked on Email Statement credit menu link,Email statement credit page is opened</td></tr>
+<tr><td><br>Merchant dropdown btn  is present</td></tr>
+<tr><td><br>Clicked on </td></tr>
+<tr><td><br>Merchant filter dropdown labels  is present</td></tr>
+<tr><td><br>Duration Dropdown list  is present</td></tr>
+<tr><td><br>Clicked on </td></tr>
+<tr><td><br>Duration filter dropdown labels  is present</td></tr>
+<tr><td><br>Closed all the browsers opened by webdriver.</td></tr>
+</table>

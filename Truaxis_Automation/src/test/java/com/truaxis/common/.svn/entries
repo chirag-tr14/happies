@@ -1,0 +1,76 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/common
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-12-20T05:47:51.430384Z
+49555
+Chandana Pedamalli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+BaseTest.java
+file
+
+
+
+
+2013-12-23T00:12:12.000000Z
+d788b21c6d5cce32b7a73cbf93c65b01
+2013-12-20T05:43:58.816591Z
+49554
+Chandana Pedamalli
+
+GlobalStaticInfo.java
+file
+
+
+
+
+2013-12-23T00:12:12.000000Z
+4dfcb8d148c5afbd953939e7fff47411
+2013-12-20T05:47:51.430384Z
+49555
+Chandana Pedamalli
+
+PageBase.java
+file
+
+
+
+
+2013-12-23T00:12:12.000000Z
+2e8aac516c7cb4f1aa53f6ab1a489681
+2013-12-10T13:08:20.630798Z
+49404
+Chandana Pedamalli
+
+PageFactory.java
+file
+
+
+
+
+2013-12-23T00:12:12.000000Z
+093f384a6fdcf051fd0ef8076f031aaa
+2013-12-06T11:38:49.766318Z
+49289
+Chandana Pedamalli
+

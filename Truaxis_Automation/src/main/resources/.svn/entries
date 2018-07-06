@@ -1,0 +1,52 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation/src/main/resources
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-12-02T06:57:27.191656Z
+49115
+Mohammed Kareem
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+config.properties
+file
+
+
+
+
+2013-12-23T00:12:16.000000Z
+6665ed8b561fea87e33c04970476821a
+2013-12-02T06:57:27.191656Z
+49115
+Mohammed Kareem
+
+log4j.properties
+file
+
+
+
+
+2013-12-23T00:12:16.000000Z
+1197266af1f1913986187345a97e8e29
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+

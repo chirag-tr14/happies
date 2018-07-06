@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/svn/buxwatch/!svn/ver/49573/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects
+END
+WeeklyStatementCreditPerformancePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 159
+/svn/buxwatch/!svn/ver/49558/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/WeeklyStatementCreditPerformancePage.java
+END
+TagCampaignMappingPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buxwatch/!svn/ver/49557/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/TagCampaignMappingPage.java
+END
+EmailSettingsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buxwatch/!svn/ver/49394/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/EmailSettingsPage.java
+END
+PrepaidGiftCardPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/buxwatch/!svn/ver/49499/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/PrepaidGiftCardPage.java
+END
+CouponRewardsPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buxwatch/!svn/ver/49480/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/CouponRewardsPage.java
+END
+StatementCreditPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/svn/buxwatch/!svn/ver/49546/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/StatementCreditPage.java
+END
+EmailStatementCreditPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/svn/buxwatch/!svn/ver/49573/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/EmailStatementCreditPage.java
+END
+RDLoginPage.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/buxwatch/!svn/ver/49245/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/RDLoginPage.java
+END
+RDHomePage.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/buxwatch/!svn/ver/49556/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/pageobjects/RDHomePage.java
+END

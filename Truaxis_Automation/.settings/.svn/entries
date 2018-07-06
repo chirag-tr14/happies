@@ -1,0 +1,52 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation/.settings
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+org.eclipse.jdt.core.prefs
+file
+
+
+
+
+2013-12-23T00:12:20.000000Z
+45795914e597f2b8422d16ce3bb942c1
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+
+org.eclipse.m2e.core.prefs
+file
+
+
+
+
+2013-12-23T00:12:20.000000Z
+66985cccd6a27c2401be11bc75d9ea23
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+

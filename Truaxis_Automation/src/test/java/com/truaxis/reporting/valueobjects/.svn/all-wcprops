@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 118
+/svn/buxwatch/!svn/ver/49247/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/valueobjects
+END
+KeyStatisticsVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/svn/buxwatch/!svn/ver/49247/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/valueobjects/KeyStatisticsVO.java
+END
+CampaignPerformanceVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/svn/buxwatch/!svn/ver/49247/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/valueobjects/CampaignPerformanceVO.java
+END
+KeyPerformanceVO.java
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/svn/buxwatch/!svn/ver/49247/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/valueobjects/KeyPerformanceVO.java
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/buxwatch/!svn/ver/49555/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/common
+END
+PageBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/buxwatch/!svn/ver/49404/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/common/PageBase.java
+END
+BaseTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/svn/buxwatch/!svn/ver/49554/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/common/BaseTest.java
+END
+GlobalStaticInfo.java
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/svn/buxwatch/!svn/ver/49555/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/common/GlobalStaticInfo.java
+END
+PageFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/svn/buxwatch/!svn/ver/49289/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/common/PageFactory.java
+END

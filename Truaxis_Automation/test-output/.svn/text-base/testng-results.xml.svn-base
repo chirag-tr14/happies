@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" total="2" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[<br>Browser launched successfully]]>
+    </line>
+    <line>
+      <![CDATA[<br>Opened URL : https://mdreporting.qa.truaxis.mastercard.com/login.htm]]>
+    </line>
+    <line>
+      <![CDATA[<br>Login username text  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value q2@bs.com]]>
+    </line>
+    <line>
+      <![CDATA[<br>Login password text  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Entered value admin]]>
+    </line>
+    <line>
+      <![CDATA[<br>Login login btn  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on LOG IN TO THE DASHBOARD]]>
+    </line>
+    <line>
+      <![CDATA[<br>EmailStatementCredit menulink  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on Email Statement Credit]]>
+    </line>
+    <line>
+      <![CDATA[<br> clicked on Email Statement credit menu link,Email statement credit page is opened]]>
+    </line>
+    <line>
+      <![CDATA[<br>Merchant dropdown btn  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on ]]>
+    </line>
+    <line>
+      <![CDATA[<br>Merchant filter dropdown labels  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Duration Dropdown list  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Clicked on ]]>
+    </line>
+    <line>
+      <![CDATA[<br>Duration filter dropdown labels  is present]]>
+    </line>
+    <line>
+      <![CDATA[<br>Closed all the browsers opened by webdriver.]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="11999" started-at="2013-12-02T05:00:54Z" finished-at="2013-12-02T05:01:06Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="11999" started-at="2013-12-02T05:00:54Z" finished-at="2013-12-02T05:01:06Z">
+      <class name="com.truaxis.test.reporting.Scenario2Test">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.truaxis.test.reporting.Scenario2Test@27a26532]" name="beforeClass" is-config="true" duration-ms="4542" started-at="2013-12-02T10:30:54Z" finished-at="2013-12-02T10:30:58Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Browser launched successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setUpOnce1()[pri:0, instance:com.truaxis.test.reporting.Scenario2Test@27a26532]" name="setUpOnce1" is-config="true" duration-ms="6614" started-at="2013-12-02T10:30:58Z" finished-at="2013-12-02T10:31:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Opened URL : https://mdreporting.qa.truaxis.mastercard.com/login.htm]]>
+            </line>
+            <line>
+              <![CDATA[<br>Login username text  is present]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value q2@bs.com]]>
+            </line>
+            <line>
+              <![CDATA[<br>Login password text  is present]]>
+            </line>
+            <line>
+              <![CDATA[<br>Entered value admin]]>
+            </line>
+            <line>
+              <![CDATA[<br>Login login btn  is present]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on LOG IN TO THE DASHBOARD]]>
+            </line>
+            <line>
+              <![CDATA[<br>EmailStatementCredit menulink  is present]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on Email Statement Credit]]>
+            </line>
+            <line>
+              <![CDATA[<br> clicked on Email Statement credit menu link,Email statement credit page is opened]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpOnce1 -->
+        <test-method status="PASS" signature="testRD_2_7()[pri:0, instance:com.truaxis.test.reporting.Scenario2Test@27a26532]" name="testRD_2_7" duration-ms="313" started-at="2013-12-02T10:31:05Z" finished-at="2013-12-02T10:31:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Merchant dropdown btn  is present]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on ]]>
+            </line>
+            <line>
+              <![CDATA[<br>Merchant filter dropdown labels  is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRD_2_7 -->
+        <test-method status="FAIL" signature="testRD_2_8()[pri:0, instance:com.truaxis.test.reporting.Scenario2Test@27a26532]" name="testRD_2_8" duration-ms="281" started-at="2013-12-02T10:31:05Z" finished-at="2013-12-02T10:31:06Z">
+          <exception class="java.lang.AssertionError">
+            <message>
+              <![CDATA[Duration Filter Drop Down Labels,are  not displayed on Email  Statement Credit page expected [true] but found [false]]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[java.lang.AssertionError: Duration Filter Drop Down Labels,are  not displayed on Email  Statement Credit page expected [true] but found [false]
+	at org.testng.Assert.fail(Assert.java:94)
+	at org.testng.Assert.failNotEquals(Assert.java:494)
+	at org.testng.Assert.assertEquals(Assert.java:123)
+	at org.testng.Assert.assertEquals(Assert.java:286)
+	at com.truaxis.test.reporting.Scenario2Test.testRD_2_8(Scenario2Test.java:73)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:84)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:714)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:901)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1231)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:127)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:111)
+	at org.testng.TestRunner.privateRun(TestRunner.java:767)
+	at org.testng.TestRunner.run(TestRunner.java:617)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:334)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:329)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:291)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:240)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1224)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1149)
+	at org.testng.TestNG.run(TestNG.java:1057)
+	at org.testng.remote.RemoteTestNG.run(RemoteTestNG.java:111)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:204)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:175)
+]]>
+            </full-stacktrace>
+          </exception> <!-- java.lang.AssertionError -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Duration Dropdown list  is present]]>
+            </line>
+            <line>
+              <![CDATA[<br>Clicked on ]]>
+            </line>
+            <line>
+              <![CDATA[<br>Duration filter dropdown labels  is present]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- testRD_2_8 -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.truaxis.test.reporting.Scenario2Test@27a26532]" name="afterClass" is-config="true" duration-ms="249" started-at="2013-12-02T10:31:06Z" finished-at="2013-12-02T10:31:06Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br>Closed all the browsers opened by webdriver.]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.truaxis.test.reporting.Scenario2Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

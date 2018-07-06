@@ -1,0 +1,13 @@
+rd_home=https://mdreporting.qa.truaxis.mastercard.com/login.htm
+browser=firefox
+#browser=safari
+#browser=googlechrome
+#browser=ie10
+os=windows
+remote=false
+reportFormat=${testng}
+outputDirectory=${outputDirectory}
+chromeDriverLocation=C:/seleniumJars/chromedriver.exe
+ieDriverLocation=C:/seleniumJars/iedriver.exe
+appScreenOffset=72
+defaultTimeOut=30

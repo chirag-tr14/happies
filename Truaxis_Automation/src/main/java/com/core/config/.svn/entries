@@ -1,0 +1,100 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/config
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-12-02T05:07:37.120535Z
+49112
+Mohammed Kareem
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+BasicConfig.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+de8ef0b706744a2adc359fbf3deb595f
+2013-12-02T05:07:37.120535Z
+49112
+Mohammed Kareem
+
+BrowserConfig.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+5175eaaa5b18758a3e883ddf84b10ec3
+2013-09-27T12:48:52.330557Z
+46989
+Chandana Pedamalli
+
+ExcelLocatorConfig.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+0a571df7701eba4a6a3d6c68bdcd4ac8
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+
+LocatorConfig.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+0c528ba665ee4592da7cf84d16693d9f
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+
+PropLocatorConfig.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+5e784858332f01723ced6af754d38181
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+
+PropTestdataConfig.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+0c858b7b846c420f1a6044b02a5be367
+2013-09-06T18:28:53.216132Z
+46466
+Kaushik Mahata
+

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Test suite]">
+  <test name="Scenario 1 Test Cases(failed)">
+    <classes>
+      <class name="com.truaxis.test.rd.Scenario1Test">
+        <methods>
+          <include name="afterClass"/>
+          <include name="RD1"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.truaxis.test.rd.Scenario1Test -->
+    </classes>
+  </test> <!-- Scenario 1 Test Cases(failed) -->
+</suite> <!-- Failed suite [Test suite] -->

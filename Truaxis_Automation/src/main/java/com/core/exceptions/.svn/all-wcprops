@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions
+END
+TooManyWindowsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/TooManyWindowsException.java
+END
+FrameNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/FrameNotFoundException.java
+END
+UnableToFindWindowException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/UnableToFindWindowException.java
+END
+TooFewWindowsException.java
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/TooFewWindowsException.java
+END
+InvalidElementTypeException.java
+K 25
+svn:wc:ra_dav:version-url
+V 136
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/InvalidElementTypeException.java
+END
+WindowNotFoundException.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/WindowNotFoundException.java
+END
+HomepageNotLoadedException.java
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/exceptions/HomepageNotLoadedException.java
+END

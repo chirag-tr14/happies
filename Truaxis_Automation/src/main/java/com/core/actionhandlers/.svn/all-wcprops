@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers
+END
+WaitForActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/WaitForActionsHandler.java
+END
+WindowActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/WindowActionsHandler.java
+END
+WebElementActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/WebElementActionsHandler.java
+END
+NativeMouseActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/NativeMouseActionsHandler.java
+END
+DriverMouseActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 138
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/DriverMouseActionsHandler.java
+END
+JSMouseActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/JSMouseActionsHandler.java
+END
+InputActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/InputActionsHandler.java
+END
+JavaScriptActionsHandler.java
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/svn/buxwatch/!svn/ver/48503/qa/branches/ReportingDashboardAutomation/src/main/java/com/core/actionhandlers/JavaScriptActionsHandler.java
+END

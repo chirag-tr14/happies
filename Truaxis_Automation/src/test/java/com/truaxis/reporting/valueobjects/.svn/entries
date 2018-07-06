@@ -1,0 +1,64 @@
+8
+
+dir
+49581
+https://svn.buxwatch.com/svn/buxwatch/qa/branches/ReportingDashboardAutomation/src/test/java/com/truaxis/reporting/valueobjects
+https://svn.buxwatch.com/svn/buxwatch
+
+
+
+2013-12-05T06:20:56.383122Z
+49247
+Chandana Pedamalli
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+9c819cd0-3468-4df0-a5b1-975fb9c037f0
+
+CampaignPerformanceVO.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+0bacb2785c9cf95b829d63ff95616b0d
+2013-12-05T06:20:56.383122Z
+49247
+Chandana Pedamalli
+
+KeyPerformanceVO.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+31902e2146fb348ae93e2252320f93dc
+2013-12-05T06:20:56.383122Z
+49247
+Chandana Pedamalli
+
+KeyStatisticsVO.java
+file
+
+
+
+
+2013-12-23T00:12:14.000000Z
+c17d620b60d08e82245bffee84cff3dc
+2013-12-05T06:20:56.383122Z
+49247
+Chandana Pedamalli
+

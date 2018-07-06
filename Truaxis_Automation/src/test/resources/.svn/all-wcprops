@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/buxwatch/!svn/ver/49562/qa/branches/ReportingDashboardAutomation/src/test/resources
+END
+testdata.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/buxwatch/!svn/ver/49562/qa/branches/ReportingDashboardAutomation/src/test/resources/testdata.properties
+END
+locators.properties
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/svn/buxwatch/!svn/ver/49561/qa/branches/ReportingDashboardAutomation/src/test/resources/locators.properties
+END
+testng.xml
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/buxwatch/!svn/ver/49399/qa/branches/ReportingDashboardAutomation/src/test/resources/testng.xml
+END
